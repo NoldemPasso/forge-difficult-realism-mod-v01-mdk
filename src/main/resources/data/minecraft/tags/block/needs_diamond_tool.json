@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "difficultrealismmod:alexandrite_block",
+    "difficultrealismmod:raw_alexandrite_block",
+    "difficultrealismmod:alexandrite_ore",
+    "difficultrealismmod:alexandrite_deepslate_ore"
+  ]
+}
